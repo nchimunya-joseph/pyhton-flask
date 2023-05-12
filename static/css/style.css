@@ -1,0 +1,12 @@
+h2 {
+	border: 2px #eee solid;
+	color: brown;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+/* .img {
+	width: "100%";
+	height: "500px";
+} */
